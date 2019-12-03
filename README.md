@@ -1,2 +1,2 @@
 # raptors
-raptors at the boarder
+raptors at the border
